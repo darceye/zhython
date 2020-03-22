@@ -1,0 +1,1 @@
+@if "%*" == "" (python) else (python trans.py %*)
